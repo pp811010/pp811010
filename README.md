@@ -34,3 +34,14 @@ I am Serapat Ratanapchai, people call me popo, a recent computer science graduat
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pp811010&count_private=true&show_icons=true&include_all_commits=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pp811010&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pp811010&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
