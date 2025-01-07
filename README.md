@@ -4,7 +4,7 @@ I am Serapat Ratanapchai, people call me popo, a recent computer science graduat
 
 [![Phone Badge](https://img.shields.io/badge/-+6692327959-blue?style=flat-square&logo=Phone&logoColor=white&link=tel:+66812345678)](tel:+66812345678)
 [![Gmail Badge](https://img.shields.io/badge/-pp811010@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:kanna6501@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-riicpopo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
+[![Instagram Badge](https://img.shields.io/badge/-legopopo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/kanna6501/)](https://instagram.com/kanna6501)
 
 ## ⚡ Technologies
 
