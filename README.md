@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/pp811010?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pp811010)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pp811010/pp811010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
