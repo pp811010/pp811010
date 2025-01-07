@@ -14,7 +14,6 @@ I am Serapat Ratanapchai, people call me popo, a recent computer science graduat
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
