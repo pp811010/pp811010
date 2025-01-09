@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Serapat Ratanapchai, people call me popo, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/).
+I am Serapat Ratanapchai, people call me Popo, currently studying in the Information Technology program at King Mongkut's Institute of Technology Ladkrabang (KMITL).
 
 [![Phone Badge](https://img.shields.io/badge/-+6692327959-blue?style=flat-square&logo=Phone&logoColor=white&link=tel:+66812345678)](tel:+6692327959)
 [![Gmail Badge](https://img.shields.io/badge/-pp811010@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pp811010@gmail.com)](mailto:kanna6501@gmail.com)
@@ -15,7 +15,10 @@ I am Serapat Ratanapchai, people call me popo, a recent computer science graduat
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
