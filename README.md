@@ -1,4 +1,4 @@
-Helow 👋
+Hellw 👋
 
 I am Serapat Ratanapchai, people call me Popo, currently studying in the Information Technology program at King Mongkut's Institute of Technology Ladkrabang (KMITL).
 
