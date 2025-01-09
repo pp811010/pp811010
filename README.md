@@ -38,13 +38,7 @@ I am Serapat Ratanapchai, people call me Popo, currently studying in the Informa
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pp811010&layout=compact)
-
-<a href="https://github.com/pp811010/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pp811010&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/pp811010/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pp811010&repo=convoychat" />
-</a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pp811010)
 
 
 
