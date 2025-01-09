@@ -6,7 +6,7 @@ I am Serapat Ratanapchai, people call me Popo, currently studying in the Informa
 [![Gmail Badge](https://img.shields.io/badge/-pp811010@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pp811010@gmail.com)](mailto:kanna6501@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-riicpopo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/riicpopo/)](https://instagram.com/kanna6501)
 
-## ⚡ Technologies
+##  Technologies ⚡
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
