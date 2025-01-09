@@ -35,10 +35,11 @@ I am Serapat Ratanapchai, people call me Popo, currently studying in the Informa
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=pp811010&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pp811010&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pp811010)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pp811010)
+
+
 
 
 
