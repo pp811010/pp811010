@@ -2,7 +2,7 @@ Hello 👋
 
 I am Serapat Ratanapchai, people call me Popo, currently studying in the Information Technology program at King Mongkut's Institute of Technology Ladkrabang (KMITL).
 
-[![Phone Badge](https://img.shields.io/badge/-+6692327959-blue?style=flat-square&logo=Phone&logoColor=white&link=tel:+66812345678)](tel:+6692327959)
+[![Phone Badge](https://img.shields.io/badge/0902327959-blue?style=flat-square&logo=Phone&logoColor=white&link=tel:+66812345678)](tel:0902327959)
 [![Gmail Badge](https://img.shields.io/badge/-pp811010@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pp811010@gmail.com)](mailto:kanna6501@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-riicpopo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/riicpopo/)](https://instagram.com/riicpopo)
 
